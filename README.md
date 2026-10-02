@@ -1,4 +1,7 @@
-# Windows Telemetry OFF
+<h1 style="border-bottom: 1px solid #eaecef; padding-bottom: 10px; margin-bottom: 20px;">
+  <img src="icon.svg" width="64" height="64" align="absmiddle" style="margin-right: 15px;">
+  <span style="font-size: 2.5em; font-weight: bold;">Windows Telemetry OFF</span>
+</h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4.svg)](https://microsoft.com)
